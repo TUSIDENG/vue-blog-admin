@@ -7,6 +7,8 @@ Vue-blog 后台
 
 ## 后台登录信息
 
-Admin url:http://www.yoursite.com/lRtHNxZUJG.php
-Admin username:admin
-Admin password:7xoJDcHsiR
+后台网址:http://www.yoursite.com/lRtHNxZUJG.php
+
+管理员用户名:admin
+
+管理员密码:7xoJDcHsiR
